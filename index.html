@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#f3961c"><!--the content color (#f3961c) will be show only mobail phone in chrome-->
     <title>Brewing Perfection:Your Ultimate Coffee Experience</title>
     <!--add icon on website tittle -->
     <link rel="icon" href="images/coffee-place-logo-vector.jpg">
@@ -19,9 +19,7 @@
 <body>
     <!--===========  Header and Navbar  ===========-->
     <header>
-        <div class="nav__logo">
-            <a href="index.html" class="nav__logo-text">R</a>
-        </div>
+        
         <nav class="navbar section-content">
             <a href="#" class="nav-logo">
                 <h2 class="logo-text"> ☕ Brew</h2>
@@ -50,6 +48,10 @@
 
                 <li class="nav-item">
                     <a href="#contact" class="nav-link">Contact</a>
+                </li>
+
+                <li class="nav-item">
+                    <a href="login.html" class="nav-link">Login</a>
                 </li>
             </ul>
             <button id="menu-open-button" class="fas fa-bars"></button>
@@ -308,12 +310,29 @@
                 </form>
 
             </div>
+
+
+
+
+
+
+
+
+
+
+            
         </section>
 
         <!--================  Footer section  =============-->
         <footer class="footer-section">
             <div class="section-content">
                 <p class="copyright-text">2024 Coffe shop</p>
+                <div class="copyright-text">
+                    <p>📍 070 Coffee Street, Berhampur</p>
+                    <p>📞 +91 9777094193</p>
+                    <p>📧 support@brewcoffee.com</p>
+                </div>
+                
 
                 <div class="social-link-list">
                     <a href="https://www.facebook.com/" class="social-link"><i class="fa-brands
@@ -334,6 +353,11 @@
     </main>
     <!--Linking swiper js-->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!--this link for cloud effect -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta@0.5.21/dist/vanta.clouds.min.js"></script>
+    
+
 
     <!--Linking java script file-->
     <script src="coffee.js"></script>
