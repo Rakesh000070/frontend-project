@@ -5,9 +5,10 @@ This repository is a curated collection of frontend development projects built u
 
 ## 📁 Project Structure
 Each project is organized in its own folder within the repository:
-frontend-project/
+``` frontend-project/
 └── project-1/
     ├── index.html
     ├── style.css
     └── script.js
+``` 
 Feel free to explore each folder to see the individual projects.
