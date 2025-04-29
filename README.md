@@ -13,3 +13,11 @@ frontend-project/
     └── script.js
 ``` 
 Feel free to explore each folder to see the individual projects.
+
+🚀 Getting Started
+To view any of the projects locally:
+
+Clone the repository:
+``` bash
+git clone https://github.com/Rakesh000070/frontend-project.git
+```
