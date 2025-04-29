@@ -14,7 +14,7 @@ frontend-project/
 ``` 
 Feel free to explore each folder to see the individual projects.
 
-🚀 Getting Started
+## 🚀 Getting Started
 To view any of the projects locally:
 
 1.Clone the repository:
@@ -31,24 +31,24 @@ cd frontend-project/project-1
 You can double-click the index.html file or use a live server extension if you're using a code editor like VS Code.
 
 ## 🛠️ Technologies Used
-HTML5: Markup language for structuring the content.
-CSS3: Styling language for designing the layout and appearance.
-JavaScript: Programming language for adding interactivity.
+- HTML5: Markup language for structuring the content.
+- CSS3: Styling language for designing the layout and appearance.
+- JavaScript: Programming language for adding interactivity.
 
 ## 📚 Learning Objectives
-These projects aim to help you:
-Understand the fundamentals of frontend development.
-Practice responsive design techniques.
-Implement interactive features using JavaScript.
-Enhance problem-solving skills through real-world examples.
+- These projects aim to help you:
+- Understand the fundamentals of frontend development.
+- Practice responsive design techniques.
+- Implement interactive features using JavaScript.
+- Enhance problem-solving skills through real-world examples.
 
 ## 🤝 Contributing
-Contributions are welcome! If you'd like to add your own frontend project:
-Fork the repository.
-Create a new folder with your project name.
-Add your index.html, style.css, and script.js files.
-Submit a pull request with a brief description of your project.
-Please ensure your project follows the existing structure and includes appropriate comments for clarity.
+- Contributions are welcome! If you'd like to add your own frontend project:
+- Fork the repository.
+- Create a new folder with your project name.
+- Add your index.html, style.css, and script.js files.
+- Submit a pull request with a brief description of your project.
+- Please ensure your project follows the existing structure and includes appropriate comments for clarity.
 
 ## 📄 License
 This repository is open-source and available under the MIT License.
