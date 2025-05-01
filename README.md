@@ -25,7 +25,7 @@ git clone https://github.com/Rakesh000070/frontend-project.git
 2.Navigate to the project directory:
 ```
 bash
-cd frontend-project/project-1
+cd frontend-project
 ```
 3.Open index.html in your web browser:
 You can double-click the index.html file or use a live server extension if you're using a code editor like VS Code.
